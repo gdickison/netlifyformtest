@@ -3,7 +3,7 @@ import TestForm from "../components/TestForm";
 const HomePage = () => {
     return (
         <div>
-            <h1>Welcome to my cool Next js app</h1>
+            <h1>Test Form</h1>
             <TestForm />
         </div>
     )
